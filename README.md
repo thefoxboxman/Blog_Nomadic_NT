@@ -2,7 +2,7 @@
 Auto deploys from Github repo.
 
 Project URL:
-https://wandering-western-qld-2025.netlify.app
+https://nomadic-nt-2025.netlify.app/
 
 
 
