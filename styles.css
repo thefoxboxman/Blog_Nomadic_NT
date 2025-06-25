@@ -91,6 +91,15 @@ header{
      box-shadow: 5px 5px 5px var(--clr-primary-400);
      border-radius: 20px; 
 }
+
+.post-sub-title{
+  text-align:center;
+  margin-top:2em;
+     background-color: var(--clr-accent-100);
+     border: solid 2px var(--clr-primary-400);
+     box-shadow: 5px 5px 5px var(--clr-primary-400);
+     border-radius: 20px; 
+}
   .post-image{
         display: block;
         margin: auto;

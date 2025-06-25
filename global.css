@@ -131,7 +131,7 @@ h1 {
 h2 {
 	font-family: var(--ff-featured);
 	font-size: var(--s2);
-	color: var(--clr-accent-300);
+	color: var(--clr-primary-500);
 }
 h3 {
 	font-family: var(--ff-featured);
