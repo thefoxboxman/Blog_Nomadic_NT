@@ -32,7 +32,7 @@ header{
   }
 
   section{
-    border: solid 2px var(--clr-accent-200);
+    border: solid 2px var(--clr-primary-400);
     border-radius: 10px;
     margin: 1em;
 
@@ -105,7 +105,7 @@ header{
         margin: auto;
         padding: 2em;
         border-radius: 20px;
-        border: solid 2px var(--clr-accent-200);
+        border: solid 2px var(--clr-primary-400);
         margin-bottom:1em;
   }
 
