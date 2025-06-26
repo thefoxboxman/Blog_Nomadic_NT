@@ -89,7 +89,7 @@ header{
      background-color: var(--clr-accent-100);
      border: solid 2px var(--clr-primary-400);
      box-shadow: 5px 5px 5px var(--clr-primary-400);
-     border-radius: 20px; 
+     border-radius: 15px; 
 }
 
 .post-sub-title{
@@ -98,7 +98,7 @@ header{
      background-color: var(--clr-accent-100);
      border: solid 2px var(--clr-primary-400);
      box-shadow: 5px 5px 5px var(--clr-primary-400);
-     border-radius: 20px; 
+     border-radius: 10px; 
 }
   .post-image{
         display: block;
