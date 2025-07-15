@@ -11,7 +11,4 @@ https://nomadic-nt-2025.netlify.app/
 
 
 Netlify Badge
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7e26f72f-aba5-4a73-888e-9a97fa784c57/deploy-status)](https://app.netlify.com/projects/wandering-western-qld-2025/deploys)
-
-
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/970308d5-5963-467d-bd16-1a10d3e3d07f/deploy-status)](https://app.netlify.com/projects/nomadic-nt-2025/deploys)
