@@ -33,6 +33,7 @@ header{
 
 .copyright{
   font-size: var(--s0);
+  font-style:oblique;
 }
   section{
     border: solid 2px var(--clr-primary-400);
@@ -47,9 +48,14 @@ header{
 
   }
 
-  .thumbnail{
+  .image-shaddow{
+ border-radius:20px; 
+ margin:auto; 
+ box-shadow: 7.5px 7.5px 7.5px black;
+}
+  /* .thumbnail{
     padding:1em;
-  }
+  } */
 
   .post-info{
     display:flex;
@@ -57,10 +63,13 @@ header{
     justify-content: center;
   }
 
+.subtitle{
+  margin-left: 1em;
+}
 
   button{
     border: none;
-  color: white;
+  
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -74,11 +83,14 @@ header{
     text-align: center;
     text-decoration: none;
     border-radius:1em;
+    box-shadow: 5px 5px 5px var(--clr-accent-300);
   }
 
   
   button:hover, button:active {
     background-color: var(--clr-primary-400);
+    color: var(--clr-neutral-900);
+    font-size: 18px;
   }
 /* *************** Post CSS ********************* */
 .post-wrapper{
