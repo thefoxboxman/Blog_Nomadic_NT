@@ -126,6 +126,10 @@ button:active {
   box-shadow: 5px 5px 5px var(--clr-primary-400);
   border-radius: 20px;
 }
+.post-sub-title{
+  text-align: center;
+  padding-top: 1em;
+}
 .post-image {
   display: block;
   margin: auto;
