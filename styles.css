@@ -158,10 +158,10 @@ button:active {
     font-size: var(--s0);
   }
   h4 {
-    font-size: var(--s-05);
+    font-size: var(--s0);
   }
   p {
-    font-size: var(--s-05);
+    font-size: var(--s0);
   }
 }
 
