@@ -3,15 +3,15 @@
 header {
   padding: 1em;
   background-color: var(--clr-accent-100);
-  width: 100%;
+  width: 99%;
   margin-top: var(--s0);
   border: solid 2px var(--clr-primary-400);
   border-radius: 20px;
-  box-shadow: 5px 5px 5px var(--clr-primary-400);
+  box-shadow: 5px 5px 5px var(--clr-neutral-900);
 }
 
 #page-header {
-  background-image: url("/images/Headers/Wandering_Western_Qld.png"); /* The image used */
+  background-image: url("/images/2025-06-26_Kakadu_Yellow_Water/P1424465.jpg"); /* The image used */
   background-color: var(
     --clr-accent-100
   ); /* Used if the image is unavailable */
@@ -28,19 +28,21 @@ header {
 
 main {
   padding-bottom: 2.5rem; /* Footer height */
+  
 }
 
 footer {
   margin-top: auto;
-  width: 100%;
+  width: 99%;
   height: 7.5rem; /* Footer height */
   background-color: var(--clr-accent-100);
   padding-top: 1em;
-  margin-bottom: var(--s0);
+  
+  margin-bottom: 1em;
   border: solid 2px var(--clr-primary-400);
   border-radius: 20px;
 
-  background-image: url("/images/Headers/Wandering_Western_Qld.png"); /* The image used */
+  background-image: url("/images/2025-06-26_Kakadu_Yellow_Water/P1424465.jpg"); /* The image used */
   background-color: var(
     --clr-accent-100
   ); /* Used if the image is unavailable */
@@ -53,6 +55,7 @@ footer {
 .copyright {
   font-size: var(--s0);
   font-style: oblique;
+  color: var(--clr-neutral-100); 
 }
 
 section {
